@@ -1,12 +1,10 @@
 ## How To Take This Test
 
 Use the PaydateCalculatorInterface and create a class in PHP5 OOP called MyPaydateCalculator
-Email an archive of the results to the user who sent this test to you
-Part of the challenge is to do this unguided other than the specification, if necessary
 
 ## Rules
 This is a timed test
-Results must be emailed back to b@dev.xyz within 4 hours of being sent to you
+
 Given a paydate and a paydate model, MyPaydateCalculator must be able to return the next 10 paydates after today
 MyPaydateCalculator must run without generating errors or warnings
 A valid paydate cannot fall on today, a weekend or a holiday
